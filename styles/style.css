@@ -2,9 +2,9 @@
 
 :root {
     --cor-primaria: #000000;
-    --cor-secundaria: #735F32;
-    --cor-terciaria: #C69749;
-    --cor-hover: #282A3A;
+    --cor-secundaria: #ffffff;
+    --cor-terciaria: #5B8FB9;
+    --cor-hover: #B6EADA;
 
     --fonte-primaria: 'Playfair Display', serif;
     --fonte-secundaria: 'Kanit', sans-serif;
